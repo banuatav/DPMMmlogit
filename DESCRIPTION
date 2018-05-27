@@ -1,0 +1,13 @@
+Package: DPMMmlogit
+Type: Package
+Title: Dirichlet Process Mixture Model with multinomial response
+Version: 1.2
+Date: 2018-05-06
+Author: Banu Atav
+Maintainer: Banu Atav <banuatav93@gmail.com>
+Description: Bayesian estimation a DPMM model under the multinomial logit specification through MCMC sampling (combination of Random Walk and Gibbs sampling).
+License: What license is it under?
+Imports: Rcpp (>= 0.12.16)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+Packaged: 2018-05-25 10:47:01 UTC; Banu
